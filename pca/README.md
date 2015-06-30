@@ -1,1 +1,1 @@
-# principal component analysis codes -
+# Principal Component Analysis codes -
